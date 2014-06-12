@@ -6,7 +6,7 @@
 package net.projecteuler;
 
 /**
- * https://projecteuler.net/problem=7
+ * https://projecteuler.net/problem=4
  *
  * @author jeffrey
  */
